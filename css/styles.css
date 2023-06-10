@@ -1,0 +1,26 @@
+body{
+    background-color: lightblue;
+}
+hr{
+    border-style: dotted none none none;
+    border-width: 7px;
+    border-color: gray;
+    height: 0px;
+    width: 3%;
+}
+
+h1{
+    color:#0b81cf;
+}
+
+h2{
+    color:#0b81cf;
+}
+
+h3{
+    color:#0b81cf;
+}
+
+th{
+    color:#0b81cf;
+}
